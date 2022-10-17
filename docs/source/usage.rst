@@ -1,4 +1,4 @@
-Usage
+Guide To MFA
 =====
 
 .. _installation:
