@@ -18,5 +18,9 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   Guide To MFA
+   How SecTrail MFA Works
+   Installation Guide
+   Policies
+   Supported Device Documantation
+   Trouble Shooting
