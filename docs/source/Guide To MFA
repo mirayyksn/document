@@ -1,1 +1,24 @@
 
+What is MultiFactor Authentication?
+
+
+Multifactor authentication (MFA)  briefly is a method of accessibility to a website or an application by using two or more evidence. Each  part of these  evidence should come from different categories such as something they have (possesion factor), something they know (knowledge factor) and something they are (inherence factor).
+
+Possession factor needs users to have something in their ownership for log in such as one time passwords that provided by sms, email or mob ile authentication, hardware keys, push notifications.
+
+Knowledge factor needs users to answer  a personal security question such as passwords, personal identification numbers (PINs)  or security questions.
+
+Inherince factor needs user to verify his/her identification for login by using any biological traits that user has such as fingerprint scan, facial recognnition, voice authentication.
+
+Oftenly, user location is suggested as a fourth factor for authentication. This factor looks at user’s IP address or geo location if possible and uses for blocking the user access if their location info doesn’t match what is specified.
+
+As a working principle of MFA , a user cannot be logged in only using a username and password, but  also requiries supplemental informations that been mentioned as factors. When user makes a login request by using username and password , he/she is not been allowed to access. He/she needs to verfiy more options that provide by the factor that has been chosen. That may seem simple, however it is extremely effective.
+
+
+In last few years, cyberattacks have increased in number. This shows up the need and importance of MFA which brings lots of advantages to the security systems that make stealing datas harder.  Some of these advantages are;
+                                  . Making Authentication Stronger
+                                  . Increasing the Security
+                                  .Decreasing the Risk of Compromised Passwords
+                                  .Adaptable for Different WorkingPlaces
+                                  .Appropriating to Single Sing-On (SSO)
+ 
